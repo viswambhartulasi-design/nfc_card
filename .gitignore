@@ -6,3 +6,4 @@ server/uploads/
 server/data/database.json
 .DS_Store
 *.log
+.vercel
